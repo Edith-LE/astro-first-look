@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
+    "dev": "tinacms dev -c 'astro dev'",
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "@astrojs/vue": "^2.2.1",
+    "@tinacms/cli": "^1.5.26",
     "astro": "^2.9.2",
+    "tinacms": "^1.5.17",
     "vue": "^3.3.4"
   }
 }
