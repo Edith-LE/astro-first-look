@@ -11,9 +11,7 @@
   },
   "dependencies": {
     "@astrojs/vue": "^2.2.1",
-    "@contentful/rich-text-html-renderer": "^16.1.0",
     "astro": "^2.9.2",
-    "contentful": "^10.3.6",
     "vue": "^3.3.4"
   }
 }
