@@ -1,5 +1,5 @@
 ---
-title: Post test
+title: Post test 2
 ---
 
-post test 1
+post test 2 
